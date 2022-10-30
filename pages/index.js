@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -20,10 +21,10 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/api/acao" className={styles.card}>
+          <Link href="/api/acao" className={styles.card}>
             <h2>Endpoint &rarr;</h2>
             <p>Filmes de Ação</p>
-          </a>
+          </Link>
         </div>
         {/*
           <a href="https://nextjs.org/learn" className={styles.card}>
