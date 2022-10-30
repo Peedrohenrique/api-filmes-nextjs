@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "name": "Adão Negro",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg",
+      "description": "Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno."
+    },
+    {
+      "id": 2,
+      "name": "Lou",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
+      "description": "Lou leva uma vida tranquila, acreditando ter abandonado seu passado perigoso. Até que uma mulher desesperada implora a ajuda dela para salvar a filha sequestrada. Em meio a uma grande tempestade, as duas se arriscam em uma missão de resgate que coloca seus limites à prova e revela terríveis segredos do passado."
+    },
+    {
+        "id": 3,
+        "name": "Doutor Estranho no Multiverso da Loucura",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
+        "description": "Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso."
+    },
+    {
+      "id": 4,
+      "name": "O Predador: A Caçada",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg",
+      "description": "Ambientado no mundo da Nação Comanche no início de 1700, 'O Predador: A Caçada' é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários."
+    },
+    {
+      "id": 5,
+      "name": "Blackout",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg",
+      "description": "Um homem desperta com amnésia em um hospital mexicano e descobre que é alvo de um cartel. Agora, ele precisa ir atrás da verdade, rápido!"
+    },
+    {
+      "id": 6,
+      "name": "Trem-Bala",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg",
+      "description": "5 assassinos da máfia japonesa se encontram à bordo de um trem-bala que faz o trajeto entre as cidades Tóquio até Morioka com poucas paradas. Assim, a tensão entre esse grupo de habilidosos e mortais profissionais só aumentam quando eles descobrem a presença um do outro e começam a entrar em conflito em si."
+    },
+    {
+      "id": 7,
+      "name": "Fullmetal Alchemist: A Alquimia Final",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uMzOYHGiHEfknowTlg3o72gSvHy.jpg",
+      "description": "Acompanhe a última missão da jornada épica dos irmãos Elric: enfrentar uma ameaça nacional de outro mundo."
+    },
+    {
+      "id": 8,
+      "name": "Athena",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fenNPxVF5ERy0CSyVruuEg959Hg.jpg",
+      "description": "A morte trágica de um garoto é o estopim para um conflito no Conjunto Habitacional Athena. No centro do caos estão os irmãos mais velhos da vítima."
+    },
+    {
+      "id": 9,
+      "name": "Esquadrão Secreto",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg",
+      "description": "Nas horas vagas depois da escola, Charlie e seus amigos descobrem o quartel-general do super-herói mais poderoso do mundo escondido embaixo de sua casa. Quando vilões atacam, eles têm que unir forças para defender o quartel-general e salvar o mundo."
+    },
+    {
+      "id": 10,
+      "name": "Restart The Earth",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kl80N1g69v9QXe1wvkFza31WhD4.jpg",
+      "description": "When a drug to replicate plant cells creates a sentient form of flower, the planet is over taken by flora and humankind is depleted. A Chinese task force, a widowed father and his young daughter fight to survive in a mission to inject an antidote to the core of the plants to reverse their growth."
+    },
+    {
+      "id": 11,
+      "name": "Thor: Amor e Trovão",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg",
+      "description": "Thor parte em uma jornada de autodescoberta, diferente de tudo que ele já enfrentou. Mas seus esforços são interrompidos por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que busca a extinção dos deuses. Para combater esta ameaça, Thor pede a ajuda da Rei Valquíria, Korg e da ex-namorada Jane Foster, que, para a surpresa de Thor, inexplicavelmente empunha seu mágico martelo, Mjolnir, como a Poderosa Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do Carniceiro dos Deuses e detê-lo antes que seja tarde demais."
+    },
+    {
+      "id": 12,
+      "name": "Bullet Proof",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg",
+      "description": "The Thief pulls off the robbery of a lifetime when he robs the psychotic drug lord, Temple. The plan goes off without a hitch until the Thief discovers a stowaway in his getaway car - Temple's pregnant wife, Mia."
+    },
+    {
+      "id": 13,
+      "name": "Lobisomem na Noite",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/N9jyoeH3wKhiHYNYLE9Pnnls9D.jpg",
+      "description": "Em uma noite escura e sombria, uma cabala secreta de caçadores de monstros emerge das sombras e se reúne no templo de Bloodstone após a morte de seu líder. Em um estranho e macabro memorial à vida do líder, os participantes são lançados em uma misteriosa e mortal competição por uma poderosa relíquia – uma caçada que acabará por colocá-los cara a cara com um monstro perigoso."
+    },
+    {
+      "id": 14,
+      "name": "Jurassic World: Domínio",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",
+      "description": "Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história."
+    },
+    {
+      "id": 15,
+      "name": "Dragon Ball Super: Super Hero",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/FiqBRypTDyHzqcxdbpPb3ddFep.jpg",
+      "description": "Com suas capas balançando, Gamma 1 e Gamma 2 podem ser vistos fazendo algumas poses incríveis! Além disso, há alguns novos personagens originais que teremos que esperar para descobrir mais, não importa o quão difícil possa ser! Vestindo seu uniforme e tomando o centro do palco está Gohan, que parece estar se preparando para a luta de uma vida ao lado de Piccolo, Goku, Vegeta e Pan! (sinopse temporária)"
+    },
+    {
+        "id": 16,
+        "name": "O Lendário Cão Guerreiro",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rpK3dukkvCa3E7iOPphsBGTO2dS.jpg",
+        "description": "Um cão de caça sem sorte se encontra em uma cidade cheia de gatos que precisam de um herói para defendê-los do plano maligno de um vilão implacável para varrer sua vila do mapa. Com a ajuda de um treinador relutante, o azarão deve assumir o papel de temível samurai e se juntar aos felinos para salvar o dia. O único problema é todos eles odeiam cães."
+    },
+    {
+        "id": 17,
+        "name": "DC Liga dos Superpets",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sQN9v8dIkEYtrGhLULweNNKONHg.jpg",
+        "description": "Krypto, o Supercão, precisa convencer um grupo excêntrico de animais a dominar seus novos poderes para ajudá-lo no resgate da Liga da Justiça."
+    },
+    {
+        "id": 18,
+        "name": "Top Gun: Maverick",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg",
+        "description": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete 'Maverick' Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial."
+    },
+    {
+        "id": 19,
+        "name": "Samaritano",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg",
+        "description": "25 anos após uma batalha insana, todos acreditavam que o super-herói Samaritano estava morto. Mas agora um garotinho começa uma investigação para procurar o paradeiro do super-herói e a sua principal pista é Joe, um trabalhador que parece comum, mas esconde sua verdadeira identidade heróica."
+    },
+    {
+        "id": 20,
+        "name": "Ameaça a Bordo",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nZY9zf7z0Gy3bFOpwf0qOgJKaX7.jpg",
+        "description": "Bella é uma jovem problemática. Ao herdar um iate do pai distante, ela se vê em perigo quando três ladrões o sequestram. Agora, ela precisa lutar para sobreviver."
+    },
+    {
+        "id": 21,
+        "name": "RRR: Revolta, Rebelião, Revolução",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nQKW2sabIClUsrQl3Y3i5LQgf5l.jpg",
+        "description": "Um conto de dois revolucionários lendários e sua jornada para longe de casa. Após sua jornada, eles voltam para casa para começar a lutar contra os colonialistas britânicos na década de 1920."
+    },
+    {
+        "id": 22,
+        "name": "Batman e Superman: Batalha dos Super Filhos",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKUiO82S3r2OkgpTtuTTL6mnpjk.jpg",
+        "description": "Jonathan Kent e o jovem companheiro relutante Damian Wayne estão encarregados de salvar o mundo da destruição iminente. Os dois devem unir forças para resgatar seus pais e salvar o planeta, tornando-se os super-heróis que deveriam ser."
+    },
+    {
+        "id": 23,
+        "name": "Lightyear",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wDnKL1eBkSkGGBK6WoQxZZVDCHU.jpg",
+        "description": "A aventura de ação e ficção científica apresenta a história de origem definitiva de Buzz Lightyear - o herói que inspirou o brinquedo - apresentando o lendário Space Ranger que conquistaria gerações de fãs."
+    },
+    {
+        "id": 24,
+        "name": "Sala de Espionagem",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg",
+        "description": "Um agente de monitoramento encarregado de proteger um traficante de armas mortal-mas logo o agente se encontra no fogo cruzado."
+    },
+    {
+        "id": 25,
+        "name": "Fullmetal Alchemist: A Vingança de Scar",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsgF3IyWmNOnYqNtweaqySWpYTz.jpg",
+        "description": "Os s irmãos Elric encontram seu oponente mais difícil até agora: Um assassino em série solitário com uma grande cicatriz na testa."
+    }
+  ]
