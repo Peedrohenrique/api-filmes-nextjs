@@ -1,6 +1,7 @@
 import Head from "next/head";
-import Image from "next/image";
+import Card from "react-animated-3d-card";
 import Link from "next/link";
+import { Endpoint } from "../services/endpoint";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -15,57 +16,46 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Welcome to API Filmes</h1>
 
-        <p className={styles.description}>
-          Created by:
-          <a href="https://github.com/Peedrohenrique">Pedro Henrique</a>
-        </p>
-
         <div className={styles.grid}>
-          <Link href="/api/acao" className={styles.card}>
-            <h2>Endpoint &rarr;</h2>
-            <p>Filmes de Ação</p>
-          </Link>
+          {Endpoint.map((end, index) => (
+            // <a className={styles.card}>
+            <Link
+              key={index}
+              href={end.endpoint}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.card}
+            >
+              <Card
+                cursorPointer={false}
+                shineStrength={0.75}
+                style={{
+                  background:
+                    "linear-gradient(to right, #0f0c29, #302b63, #24243e)",
+                  width: "13rem",
+                  height: "11rem",
+                  cursor: "pointer",
+                }}
+                onClick={() => console.log()}
+              >
+                <h2>{end.title}</h2>
+                <p>{end.text}</p>
+              </Card>
+            </Link>
+            // </a>
+          ))}
         </div>
-        {/*
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div> */}
       </main>
 
-      {/* <footer className={styles.footer}>
+      <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://github.com/Peedrohenrique"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
+          Created by: Pedro Henrique
         </a>
-      </footer> */}
+      </footer>
     </div>
   );
 }

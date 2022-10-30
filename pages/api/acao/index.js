@@ -1,5 +1,5 @@
-import acao from "../../dados/acao.json";
+import acao from "../../dados/01-acao.json";
 
-export default function handlerAcao(req, res) {
+export default function handlerFilmes(req, res) {
   res.status(200).json(acao);
 }

@@ -1,9 +1,9 @@
-import acao from "../../dados/01-acao.json";
+import banner from "../../dados/banner.json";
 
-export default function handlerFilmes(req, res) {
+export default function handlerBanner(req, res) {
   const { id } = req.query;
 
-  const filtered = acao.filter((p) => p.id === parseInt(id));
+  const filtered = banner.filter((p) => p.id === parseInt(id));
 
   // User with id exists
   return filtered.length > 0
