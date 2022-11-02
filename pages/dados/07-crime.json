@@ -2,150 +2,175 @@
     {
         "id": 1001,
         "name": "A Vida de Togo",
+        "year":"5 de outubro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBvHFU97cmep48zbl5X85gvXCn.jpg",
         "description": "Ele vigia carros estacionados e vai fazer de tudo para proteger esse ganha-pão. Ainda mais agora que os traficantes querem que ele e seus amigos vendam drogas nas ruas."
     },
     {
         "id": 1002,
         "name": "Cruella",
+        "year":"26 de maio de 2021",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
         "description": "Na Londres dos anos 70 em meio à revolução do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si através de seus designs. Ela faz amizade com uma dupla de jovens ladrões e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a atenção da Baronesa Von Hellman, uma lenda fashion que é devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revelações que farão com que Estella abrace seu lado rebelde e se torne a Cruella má, elegante e voltada para a vingança."
     },
     {
         "id": 1003,
         "name": "Vingança e Redenção",
+        "year":"3 de junho de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg",
         "description": "Um ex-fuzileiro naval deve lutar contra sua consciência e seu código de honra quando é forçado a fazer serviços para a máfia."
     },
     {
         "id": 1004,
         "name": "Sala de Espionagem",
+        "year":"2 de setembro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg",
         "description": "Um agente de monitoramento encarregado de proteger um traficante de armas mortal-mas logo o agente se encontra no fogo cruzado."
     },
     {
         "id": 1005,
         "name": "Fim da Estrada",
+        "year":"9 de setembro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg",
         "description": "Depois de ficar viúva e perder o emprego, Brenda atravessa o país com a família para recomeçar a vida. No deserto do Novo México, longe de qualquer possibilidade de ajuda, eles viram alvos de uma perseguição mortal e precisam aprender a se defender."
     },
     {
         "id": 1006,
         "name": "Tensão nas Alturas",
+        "year":"18 de fevereiro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qLQ6MLERMjhM1XxkGfaREnPQN6z.jpg",
         "description": "Uma montanhista presa na encosta de uma montanha precisa lutar contra quatro assassinos que estão em uma saliência seis metros acima dela."
     },
     {
         "id": 1007,
         "name": "Seul em Alta Velocidade",
+        "year":"26 de agosto de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJlannhekQTz6jzBojWHMNdDbEu.jpg",
         "description": "Por amor à velocidade, aos sonhos e ao dinheiro, uma equipe de pilotos se envolve na investigação de uma figura poderosa das Olimpíadas de Seul de 1988."
     },
     {
         "id": 1008,
         "name": "Assassino Sem Rastro",
+        "year":"28 de abril de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg",
         "description": "Em Assassino Sem Rastro, Alex Lewis é um assassino experiente com reputação de precisão discreta. Preso em um dilema moral, Alex se recusa a concluir um trabalho que viola seu código de ética e deve rapidamente caçar e matar as pessoas que o contrataram antes que eles e o agente do FBI Vincent Serra o encontrem primeiro. Alex tinha o objetivo de se vingar, mas, com uma memória que começa a vacilar, ele é forçado a questionar todas as suas ações, se perdendo na linha entre o certo e o errado."
     },
     {
         "id": 1009,
         "name": "Caçando Ava Bravo",
+        "year":"1 de abril de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2Hy3c0CZsyltiZVs5UdTNhUYlv.jpg",
         "description": "Buddy King, um bilionário excêntrico, passa seu tempo caçando pessoas em sua propriedade escondido nas montanhas nevadas. Mas sua última vítima, Ava Bravo, não será um alvo fácil."
     },
     {
         "id":1010,
         "name": "Bullet Proof",
+        "year":"19 de agosto de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg",
         "description": "The Thief realiza o roubo de uma vida quando ele rouba o traficante psicótico, Temple. O plano dá certo até que o Ladrão descobre um clandestino em seu carro de fuga - a esposa grávida de Temple, Mia."
     },
     {
         "id": 1011,
         "name": "Catch the Fair One",
+        "year":"11 de fevereiro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/35QvPu5nOGlzDIGOdvtRNNkfjLZ.jpg",
         "description": "A Native American boxer embarks on the fight of her life when she goes in search of her missing sister."
     },
     {
         "id": 1012,
         "name": "The Roundup: Tolerância Zero",
+        "year":"18 de maio de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3L5uW3tJunzhjdU57gc8QYdScid.jpg",
         "description": "Um policial viaja para o Vietnã para extraditar um suspeito e descobre um assassino."
     },
     {
         "id": 1013,
         "name": "Alerta Vermelho",
+        "year":"4 de novembro de 2021",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg",
         "description": "No mundo do crime internacional, a INTERPOL lança um Alerta Vermelho, o que inicia uma caçada para capturar a mais notória ladra de artes do globo."
     },
     {
         "id": 1014,
         "name": "Colisão",
+        "year":"16 de junho de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/we29hZxAupvAOkmceHTUkos8RmS.jpg",
         "description": "Em uma corrida contra o tempo, um empresário corrupto e sua esposa socialite têm apenas um dia para salvar a filha deles de um chefão do crime."
     },
     {
         "id": 1015,
         "name": "Velozes & Furiosos 9",
+        "year":"19 de maio de 2021",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg",
         "description": "Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher."
     },
     {
         "id": 1016,
         "name": "Indenização",
+        "year":"11 de fevereiro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uPrMoy75cIBQSnIX947CakeZ6Nx.jpg",
         "description": "O mundo de um ex-bombeiro da Cidade do Cabo é abalado quando ele acorda ao lado do corpo de sua esposa, sem memória do que aconteceu e todas as evidências apontam-lhe como o assassino."
     },
     {
         "id": 1017,
         "name": "Borrego: Saia do Caminho",
+        "year":"14 de janeiro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg",
         "description": "Borrego segue uma jovem botânica que se muda para uma pequena cidade no deserto para estudar uma espécie de planta invasora. Ela deve lutar por sua sobrevivência quando é sequestrada por uma mula de drogas inexperiente após seu avião ultraleve cair no deserto."
     },
     {
         "id": 1018,
         "name": "Infiltrado",
+        "year":"22 de abril de 2021",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rNz8wy63GAabztAUkO4xMGk3upx.jpg",
         "description": "Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado."
     },
     {
         "id": 1019,
         "name": "O Despertar De Um Assassino",
+        "year":"O Despertar De Um Assassino",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fkWk7Jl3vCGPG56rmJfFurtTMbh.jpg",
         "description": "Nos anos 70, Jeffrey Dahmer (Ross Lynch) tenta manter uma rotina normal na escola. Mas ele é um jovem perturbado e em casa vive brigando com a família. O adolescente ainda precisa lidar com o seu desejo canibal e assassino."
     },
     {
         "id": 1020,
         "name": "American Sicario",
+        "year":"10 de dezembro de 2021",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg",
         "description": "Um gângster americano Erik Vasquez planeja se tornar o principal chefe do submundo mexicano, apenas para se ver fazendo inimigos tanto de poderosos cartéis quanto de seus próprios aliados, mesmo quando seu casamento com a grávida Gloria se deteriora diante de seus olhos."
     },
     {
         "id": 1021,
         "name": "Passado Violento",
+        "year":"28 de janeiro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4cxFO7AlQOotgA45nuuej2DMyiw.jpg",
         "description": "Um coletor de lixo que tenta ativamente reparar seu passado sombrio e trágico. Mas quando suas boas intenções o marcam como alvo do chefe do crime local, ele é forçado a se reconciliar com a violência de seu passado."
     },
     {
         "id": 1022,
         "name": "O Perfumista",
+        "year":"21 de setembro de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg",
         "description": "Uma detetive decidida a recuperar o olfato e o namorado cruza o caminho de um perfumista que usa métodos letais em sua busca pelo aroma perfeito."
     },
     {
         "id": 1023,
         "name": "O Lobo de Wall Street",
+        "year":"25 de dezembro de 2013",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
         "description": "Durante seis meses, Jordan Belfort (Leonardo DiCaprio) trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna (Matthew McConaughey). Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a idéia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie (Jonah Hill) e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer."
     },
     {
         "id": 1024,
         "name": "Yaksha: Operação Implacável",
+        "year":"8 de abril de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg",
         "description": "Durante a investigação de uma equipe de operações secretas em um local de alto risco, um promotor exemplar enfrenta uma guerra entre espiões."
     },
     {
         "id": 1025,
         "name": "Ambulância: Um Dia de Crime",
+        "year":"16 de março de 2022",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg",
         "description": "O condecorado veterano Will Sharp, desesperado por dinheiro para cobrir as contas médicas de sua esposa, pede ajuda de uma pessoa que ele sabe que não deveria — seu irmão adotivo Danny. Um criminoso carismático, Danny oferece-lhe uma pontuação: o maior assalto a banco na história de Los Angeles: 32 milhões de dólares. Com a sobrevivência de sua esposa em jogo, Will não pode dizer não."
     }
